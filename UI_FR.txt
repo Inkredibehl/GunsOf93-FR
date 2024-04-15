@@ -1,0 +1,5 @@
+UI_FR = {
+    -- key binding
+    UI_optionscreen_binding_BayonetUse = "Baïonnette de Guns of 93",
+    UI_optionscreen_binding_UseBayonet_Toggle = "Basculer entre la Baïonnette et l'Arme à feu",
+}
